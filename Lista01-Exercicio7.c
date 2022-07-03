@@ -1,3 +1,7 @@
+/*
+Faça um programa em C que receba o peso de uma pessoa em quilos, calcule e
+mostre esse peso em gramas.
+ */
 #include <stdio.h>
 #define gramas 1000
 int main(){

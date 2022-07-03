@@ -1,3 +1,8 @@
+/*
+João recebeu seu salário e precisa pagar duas contas que estão atrasadas. Como as
+contas estão atrasadas, João terá que pagar multa de 2% sobre cada conta. Faça um
+programa em C que calcule e mostre quanto restará do salário do João.
+*/
 #include <stdio.h>
 #define multa 0.02
  int main(){

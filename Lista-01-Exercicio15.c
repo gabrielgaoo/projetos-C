@@ -3,8 +3,7 @@
 a) o comprimento da esfera, sabe-se que C = 2πR;
 b) a área dessa esfera, sabe-se que A = πR
 2
-c) o volume dessa esfera, sabe-se que V = 4πR3
-/3
+c) o volume dessa esfera, sabe-se que V = 4πR3/3
 */
 #include <stdio.h>
 #define PI 3.14

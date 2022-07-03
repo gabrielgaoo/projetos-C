@@ -1,4 +1,8 @@
-´´#include <stdio.h>
+/*
+Faça um programa em C que receba os lados de um quadrado, calcule e mostre a área
+desse quadrado. Sabendo-se que: A = lado * lado
+*/
+#include <stdio.h>
 int main (){
 
  int lado,A;
@@ -7,12 +11,6 @@ int main (){
   A = lado*lado;
 
  printf("A AREA DO QUADRADO EH %d",A);
-
-
-
-
-
-
-
+ 
 return 0;
 }

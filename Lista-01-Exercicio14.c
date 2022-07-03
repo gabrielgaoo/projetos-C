@@ -18,12 +18,5 @@ programa em C que calcule e mostre quanto restará do salário do João.
    C = salario-(A+B);
   printf("RESTARA A JOAO %2.fR$",C);
 
-
-
-
-
-
-
-
   return 0;
  }

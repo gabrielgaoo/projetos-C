@@ -9,12 +9,6 @@ printf("DIGITE SEU SALARIO\n");
 scanf("%f",&salariof);
    resultado=salariof/salarioMinimo;
 printf("VOCE RECEBE %2.f SALARIOS MINIMOS",resultado);
-
-
-
-
-
-
-
+   
  return 0;
 }

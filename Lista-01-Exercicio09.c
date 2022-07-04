@@ -21,14 +21,5 @@ int main(){
   printf("SUA IDADE EM MESES EH %d\n",meses);
   printf("SUA IDADE EM DIAS EH %d\n",dias);
   printf("SUA IDADE EM SEMANAS EH %d\n",semanas);
-
-
-
-
-
-
-
-
-
  return 0;
 }

@@ -1,6 +1,8 @@
-/*Faça um programa em C que receba o valor do salário mínimo e o valor do salário
+/*
+Faça um programa em C que receba o valor do salário mínimo e o valor do salário
 de um funcionário, calcule e mostre a quantidade de salários mínimos que ganha esse
-funcionário.*/
+funcionário.
+*/
 #include <stdio.h>
 #define salarioMinimo 1192.40
 int main (){

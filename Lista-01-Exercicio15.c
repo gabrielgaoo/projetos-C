@@ -1,5 +1,5 @@
 /*
-15) Faça um programa em C que receba o raio, calcule e mostre:
+ Faça um programa em C que receba o raio, calcule e mostre:
 a) o comprimento da esfera, sabe-se que C = 2πR;
 b) a área dessa esfera, sabe-se que A = πR
 2

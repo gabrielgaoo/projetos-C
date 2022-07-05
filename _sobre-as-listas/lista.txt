@@ -1,1 +1,8 @@
-
+Lista 01 - Introdução aos algoritimos e operadores aritiméticos. 
+Lista 02 - Estruras Relacionais -  (if,else,switch).
+Lista 03 - Estruturas de iteração (for,while,do while).
+Lista 04 - Vetores.
+Lista 05 - Matriz.
+Lista 06 - Tipos de dados definidos pelo programador.
+Lista 07 - Função.
+Lista 08 - Arquivos.

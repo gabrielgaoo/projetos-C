@@ -13,7 +13,6 @@ int main(){
       C = 2*PI*raio;
   printf("O CUMPRIMENTO DESTA ESFERA EH %2.f\n",C);
       A = PI*raio*raio;
-
   printf("A AREA DESTA ESFERA EH %2.f\n",A);
       V =(4*PI*raio*raio*raio)/3;'	
    printf("O VOLUME DESTA ESFERA EH %2.f",V);
